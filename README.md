@@ -13,8 +13,6 @@
 
 ## 💻 Sobre o projeto
 
-e-catalogos-back é um projeto criado para um processo seletivo.
-
 O objetivo deste projeto era desenvolver uma api no back-end para um consumir no front-end.
 
 ---
